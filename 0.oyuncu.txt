@@ -1,0 +1,4 @@
+konum_x=0,konum_y=0---->konum_x=1,konum_y=0
+konum_x=1,konum_y=0---->konum_x=1,konum_y=1
+konum_x=1,konum_y=1---->konum_x=1,konum_y=2
+konum_x=1,konum_y=2---->konum_x=1,konum_y=3

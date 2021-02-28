@@ -1,0 +1,5 @@
+konum_x=9,konum_y=0---->konum_x=8,konum_y=0
+konum_x=8,konum_y=0---->konum_x=7,konum_y=0
+konum_x=7,konum_y=0---->konum_x=8,konum_y=0
+konum_x=8,konum_y=0---->konum_x=9,konum_y=0
+konum_x=9,konum_y=0---->konum_x=9,konum_y=1

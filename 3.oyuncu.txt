@@ -1,0 +1,4 @@
+konum_x=9,konum_y=14---->konum_x=9,konum_y=13
+konum_x=9,konum_y=13---->konum_x=9,konum_y=12
+konum_x=9,konum_y=12---->konum_x=9,konum_y=11
+konum_x=9,konum_y=11---->konum_x=9,konum_y=10

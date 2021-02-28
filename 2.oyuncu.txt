@@ -1,0 +1,6 @@
+konum_x=0,konum_y=14---->konum_x=0,konum_y=13
+konum_x=0,konum_y=13---->konum_x=0,konum_y=12
+konum_x=0,konum_y=12---->konum_x=0,konum_y=11
+konum_x=0,konum_y=11---->konum_x=0,konum_y=10
+konum_x=0,konum_y=10---->konum_x=0,konum_y=9
+konum_x=0,konum_y=9---->konum_x=0,konum_y=8
